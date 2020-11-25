@@ -8,7 +8,14 @@
 *.blg
 *.bbl
 *.lol
+*.fls
+*.log
+
 main-blx.bib
 main.run.xml
 main.for
+main.fdb_latexmk
 main.pdf
+
+.vscode/
+.DS_Store
